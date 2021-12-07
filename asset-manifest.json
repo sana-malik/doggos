@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/doggos/static/css/main.52cd82e5.chunk.css",
+    "main.js": "/doggos/static/js/main.4c2f8588.chunk.js",
+    "main.js.map": "/doggos/static/js/main.4c2f8588.chunk.js.map",
+    "runtime-main.js": "/doggos/static/js/runtime-main.c19ec56d.js",
+    "runtime-main.js.map": "/doggos/static/js/runtime-main.c19ec56d.js.map",
+    "static/css/2.347d4345.chunk.css": "/doggos/static/css/2.347d4345.chunk.css",
+    "static/js/2.dd5f079c.chunk.js": "/doggos/static/js/2.dd5f079c.chunk.js",
+    "static/js/2.dd5f079c.chunk.js.map": "/doggos/static/js/2.dd5f079c.chunk.js.map",
+    "index.html": "/doggos/index.html",
+    "static/css/2.347d4345.chunk.css.map": "/doggos/static/css/2.347d4345.chunk.css.map",
+    "static/css/main.52cd82e5.chunk.css.map": "/doggos/static/css/main.52cd82e5.chunk.css.map",
+    "static/js/2.dd5f079c.chunk.js.LICENSE.txt": "/doggos/static/js/2.dd5f079c.chunk.js.LICENSE.txt",
+    "static/media/logo.c99d2d53.png": "/doggos/static/media/logo.c99d2d53.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c19ec56d.js",
+    "static/css/2.347d4345.chunk.css",
+    "static/js/2.dd5f079c.chunk.js",
+    "static/css/main.52cd82e5.chunk.css",
+    "static/js/main.4c2f8588.chunk.js"
+  ]
+}
