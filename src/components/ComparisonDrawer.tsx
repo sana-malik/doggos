@@ -2,6 +2,7 @@ import { DialogTrigger, ActionButton, Text, Flex } from '@adobe/react-spectrum'
 import { Select } from 'antd';
 import ComparisonDialog from './ComparisonDialog';
 
+/* Displays comparison toolbar in Breed Grid */
 function ComparisonDrawer(props: { breeds: any, setSelected: any }) {
     const { breeds, setSelected } = props;
     const { Option } = Select;

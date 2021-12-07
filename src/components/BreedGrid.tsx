@@ -4,6 +4,7 @@ import BreedCard from './BreedCard'
 import ComparisonDrawer from './ComparisonDrawer'
 import '../css/BreedGrid.css'
 
+/* Grid view for breed cards */
 function BreedGrid(props: { breeds: Breed[], setSelected: any }) {
     const { breeds, setSelected } = props;
 

@@ -1,6 +1,7 @@
 import { IllustratedMessage, Heading, Content } from '@adobe/react-spectrum';
 import NotFound from '@spectrum-icons/illustrations/NotFound';
 
+/* Shows error with provided error message */
 function ErrorView(props: { error: string}) {
     const { error } = props;
     return <IllustratedMessage>

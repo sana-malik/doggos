@@ -4,6 +4,9 @@ import BreedInfoDialog from './BreedInfoDialog';
 import Breed from '../Breed';
 import '../css/BreedCard.css';
 
+/* Card view for breeds;
+ * Displays image, name, and actions
+ */
 function BreedCard(props: { breed: Breed, onChange: (selected: boolean) => void }) {
     const { breed, onChange } = props;
 

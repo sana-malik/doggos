@@ -5,6 +5,9 @@ import BreedGrid from './BreedGrid';
 import Breed from '../Breed';
 import ErrorView from './ErrorView';
 
+/* Main page: content container
+ * Display error, loading, or dog grid
+ */
 function Content() {
     const [breeds, setBreeds] = useState<Breed[]>();
     const [errorMessage, setErrorMessage] = useState<string>();

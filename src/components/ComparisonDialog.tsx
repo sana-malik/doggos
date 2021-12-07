@@ -4,6 +4,7 @@ import {
 } from '@adobe/react-spectrum';
 import { ProfileAttributes, getBreedAttribute } from '../Breed';
 
+/* Fullscreen modal for comparison */
 function ComparisonDialog(props: { breeds: any[], close: () => void }) {
     const { breeds, close } = props;
     const unit = "imperial";

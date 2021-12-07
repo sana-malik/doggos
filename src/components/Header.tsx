@@ -2,6 +2,9 @@ import { Flex, Heading, Image, Text, DialogTrigger,
   Dialog, Button, Divider, Content, View } from '@adobe/react-spectrum';
 import logo from '../images/logo.png';
 
+/* Header of main page 
+ * Contains: logo, title, about
+ */
 function Header() {
   return <View id="header" padding="5px" backgroundColor="gray-900">
     <Flex gap="size-150" alignItems="center">
