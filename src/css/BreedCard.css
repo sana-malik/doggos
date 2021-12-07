@@ -1,0 +1,19 @@
+.breed-name {
+    margin: 5px 0px;
+    font-size: 16px;
+    font-weight: bold;
+    overflow: hidden;
+}
+
+.breed-group {
+    font-weight: lighter;
+    font-style: italic;
+    margin: 0px;
+    flex-grow: 1;
+}
+
+.card-footer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
